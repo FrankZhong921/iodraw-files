@@ -43,31 +43,31 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="不动" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="310" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="f7Cqplz17Yd4D5bPMuVZ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f7Cqplz17Yd4D5bPMuVZ-0" target="f7Cqplz17Yd4D5bPMuVZ-3">
+        <mxCell id="f7Cqplz17Yd4D5bPMuVZ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f7Cqplz17Yd4D5bPMuVZ-0" target="f7Cqplz17Yd4D5bPMuVZ-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="f7Cqplz17Yd4D5bPMuVZ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f7Cqplz17Yd4D5bPMuVZ-0" target="f7Cqplz17Yd4D5bPMuVZ-7">
+        <mxCell id="f7Cqplz17Yd4D5bPMuVZ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f7Cqplz17Yd4D5bPMuVZ-0" target="f7Cqplz17Yd4D5bPMuVZ-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="f7Cqplz17Yd4D5bPMuVZ-0" value="上涨由于某些突破性成果发布" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="f7Cqplz17Yd4D5bPMuVZ-0" value="上涨由于某些突破性成果发布" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="180" y="430" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="f7Cqplz17Yd4D5bPMuVZ-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f7Cqplz17Yd4D5bPMuVZ-3" target="f7Cqplz17Yd4D5bPMuVZ-5">
+        <mxCell id="f7Cqplz17Yd4D5bPMuVZ-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f7Cqplz17Yd4D5bPMuVZ-3" target="f7Cqplz17Yd4D5bPMuVZ-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="f7Cqplz17Yd4D5bPMuVZ-3" value="股价是否接近新高" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="f7Cqplz17Yd4D5bPMuVZ-3" value="股价是否接近新高" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="180" y="590" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="f7Cqplz17Yd4D5bPMuVZ-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f7Cqplz17Yd4D5bPMuVZ-5" target="f7Cqplz17Yd4D5bPMuVZ-9">
+        <mxCell id="f7Cqplz17Yd4D5bPMuVZ-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f7Cqplz17Yd4D5bPMuVZ-5" target="f7Cqplz17Yd4D5bPMuVZ-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="f7Cqplz17Yd4D5bPMuVZ-5" value="新高是否达到大家期望目标价(比如特斯拉年底500)" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="f7Cqplz17Yd4D5bPMuVZ-5" value="新高是否达到大家期望目标价(比如特斯拉年底500)" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="340" y="590" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="f7Cqplz17Yd4D5bPMuVZ-7" value="等待一两天再做空" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="f7Cqplz17Yd4D5bPMuVZ-7" value="等待一两天再做空" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="f7Cqplz17Yd4D5bPMuVZ-9" value="耐心等待做空，冲高回落禁止开多博反弹，风险远大于开空" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="f7Cqplz17Yd4D5bPMuVZ-9" value="耐心等待做空，冲高回落禁止开多博反弹，风险远大于开空" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="660" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
