@@ -49,8 +49,14 @@
         <mxCell id="f7Cqplz17Yd4D5bPMuVZ-0" value="偏移属于某些成果发布" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="430" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="f7Cqplz17Yd4D5bPMuVZ-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f7Cqplz17Yd4D5bPMuVZ-3" target="f7Cqplz17Yd4D5bPMuVZ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="f7Cqplz17Yd4D5bPMuVZ-3" value="股价是否接近新高" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="590" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="f7Cqplz17Yd4D5bPMuVZ-5" value="新高是否达到大家期望目标价(比如特斯拉年底500)" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="590" width="240" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
